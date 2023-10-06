@@ -1,0 +1,14 @@
+.paragraphone{
+    text-align: center;
+    font-size: large;
+    text-decoration-color: pink;
+}
+.paragraphtwo{
+    text-align: center;
+    font-size: small;
+    font-family: 'Times New Roman';
+
+}
+body{
+    background-color: bisque;
+}

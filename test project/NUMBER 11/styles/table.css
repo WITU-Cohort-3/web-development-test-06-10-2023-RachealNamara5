@@ -1,0 +1,14 @@
+table,th,td{
+    border:1px solid black;
+    border-collapse:collapse;
+    background-color: greenyellow;
+}
+table tr:nth_child(even){
+    background-color: green;
+}
+.heading{
+    color: green;
+}
+.heading{
+    text-align: center; 
+}
