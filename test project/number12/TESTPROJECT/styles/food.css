@@ -1,0 +1,17 @@
+.myworld{
+    text-align: center;
+    font-size: larger;
+    background-color: orange;
+}
+.one{
+    text-align: center;
+    font-family: italic;
+    font-size: large;
+}
+.two{
+    font-family: italic;
+    background-color: aquamarine;
+}
+body{
+    background-color: palegoldenrod;
+}
